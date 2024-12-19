@@ -4,5 +4,6 @@
 #include <Arduino.h>
 
 void funcOne(void);
+void funcAnotherOne(void);
 
 #endif  /* LIB_ONE_H_ */
